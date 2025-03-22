@@ -37,7 +37,7 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido c
 3. Rode no navegador:
    - Coloque os arquivos no diretório do servidor (ex: `htdocs` no XAMPP)
    - Ou
-   - Rode o servidor php na pasta onde encontra-se o projeto
+   - Rode o servidor php na pasta onde encontra-se o projeto com o comando "php -S localhost:8000"
    - Acesse via navegador: `http://localhost:8000/index.php`
 
 ## 📂 Estrutura do Projeto
